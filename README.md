@@ -34,6 +34,7 @@ considered breaking and requires a new major release.
 
 | Type | Emoji | Example Commits |
 | ---- | ----- | --------------- |
+| Feature | :sparkles: `:sparkles:` | :sparkles: Allow user to authenticate with Google OAuth |
 
 ## License
 
