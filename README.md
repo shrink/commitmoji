@@ -34,6 +34,7 @@ considered breaking and requires a new major release.
 
 | Type | Emoji | Example Commits |
 | ---- | ----- | --------------- |
+| Development Environment | :construction_worker: `:construction_worker:` | :construction_worker: Mount shared volume for service dependencies |
 
 ## License
 
