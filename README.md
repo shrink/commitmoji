@@ -29,11 +29,15 @@ considered breaking and requires a new major release.
 
 ## Emojis
 
-:construction: commitmoji is currently in pre-release, please visit the
-[Pull Requests][commitmoji-pull-requests] to review the proposed types.
+:construction: commitmoji is currently in pre-release, please review the
+proposed types below.
 
-| Type | Emoji | Example Commits |
-| ---- | ----- | --------------- |
+### Proposed Emojis
+
+| Type | Emoji | Pull Request |
+| ---- | ----- | ------------ |
+| Feature | :sparkles: `:sparkles:` | [#5 &rarr;](https://github.com/shrink/commitmoji/pull/5) |
+| Development Environment | :construction_worker: `:construction_worker:` | [#6 &rarr;](https://github.com/shrink/commitmoji/pull/6) |
 
 ## License
 
