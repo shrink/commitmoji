@@ -45,6 +45,7 @@ considered breaking and requires a new major release.
 | Configuration | :wrench: `:wrench:` | :wrench: Load hostname from environment |
 | User Interface | :computer: `:computer:` | :computer: Emphasise selected project filters |
 | Security | :lock: `:lock:` | :lock: Escape HTML entities in Post titles |
+| Refactor | :recycle: `:recycle:` | :recycle: Simplify domain parsing regular expression |
 
 ## License
 
