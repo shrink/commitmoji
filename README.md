@@ -40,6 +40,7 @@ considered breaking and requires a new major release.
 | Format | :art: `:art:` | :art: Replace tabs with spaces in Javascript |
 | Performance | :zap: `:zap:` | :zap: Cache result of profile photo resizing |
 | Bug | :bug: `:bug:` | :bug: Generate cache key with user identifier |
+| Hotfix | :ambulance: `:ambulance:` | :ambulance: Replace user avatar with generic icon |
 
 ## License
 
