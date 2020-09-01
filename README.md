@@ -29,15 +29,14 @@ considered breaking and requires a new major release.
 
 ## Emojis
 
-:construction: commitmoji is currently in pre-release, please review the
-proposed types below.
+:construction: commitmoji is currently in pre-release, feedback is encouraged.
 
-### Proposed Emojis
+### Emojis
 
-| Type | Emoji | Pull Request |
+| Type | Emoji | Example Commit |
 | ---- | ----- | ------------ |
-| Feature | :sparkles: `:sparkles:` | [#5 &rarr;](https://github.com/shrink/commitmoji/pull/5) |
-| Development Environment | :construction_worker: `:construction_worker:` | [#6 &rarr;](https://github.com/shrink/commitmoji/pull/6) |
+| Feature | :sparkles: `:sparkles:` | :sparkles: Allow user to authenticate with Google OAuth |
+| Development Environment | :construction_worker: `:construction_worker:` | :construction_worker: Mount shared volume for service dependencies |
 
 ## License
 
