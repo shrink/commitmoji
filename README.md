@@ -44,6 +44,7 @@ considered breaking and requires a new major release.
 | Documentation | :book: `:book:` | :book: Describe supported colours for template |
 | Configuration | :wrench: `:wrench:` | :wrench: Load hostname from environment |
 | User Interface | :computer: `:computer:` | :computer: Emphasise selected project filters |
+| Security | :lock: `:lock:` | :lock: Escape HTML entities in Post titles |
 
 ## License
 
