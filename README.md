@@ -49,6 +49,7 @@ considered breaking and requires a new major release.
 | Accessibility | :door: `:door:` | :door: Label registration form inputs |
 | Continuous Integration | :traffic_light: `:traffic_light:` | :traffic_light: Publish release to GitHub Package Registry |
 | Log | :memo: `:memo:` | :memo: Include last activity timestamp in user metadata |
+| People | :family: `:family:` | :family: List `@example` as a Gold sponsor |
 
 ## License
 
