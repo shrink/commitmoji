@@ -37,6 +37,7 @@ considered breaking and requires a new major release.
 | ---- | ----- | ------------ |
 | Feature | :sparkles: `:sparkles:` | :sparkles: Allow user to authenticate with Google OAuth |
 | Development Environment | :construction_worker: `:construction_worker:` | :construction_worker: Mount shared volume for service dependencies |
+| Format | :art: `:art:` | :art: Replace tabs with spaces in Javascript |
 
 ## License
 
