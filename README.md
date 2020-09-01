@@ -47,6 +47,7 @@ considered breaking and requires a new major release.
 | Security | :lock: `:lock:` | :lock: Escape HTML entities in Post titles |
 | Refactor | :recycle: `:recycle:` | :recycle: Simplify domain parsing regular expression |
 | Accessibility | :door: `:door:` | :door: Label registration form inputs |
+| Continuous Integration | :traffic_light: `:traffic_light:` | :traffic_light: Publish release to GitHub Package Registry |
 
 ## License
 
