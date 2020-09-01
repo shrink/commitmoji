@@ -46,6 +46,7 @@ considered breaking and requires a new major release.
 | User Interface | :computer: `:computer:` | :computer: Emphasise selected project filters |
 | Security | :lock: `:lock:` | :lock: Escape HTML entities in Post titles |
 | Refactor | :recycle: `:recycle:` | :recycle: Simplify domain parsing regular expression |
+| Accessibility | :door: `:door:` | :door: Label registration form inputs |
 
 ## License
 
