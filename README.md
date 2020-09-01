@@ -48,6 +48,7 @@ considered breaking and requires a new major release.
 | Refactor | :recycle: `:recycle:` | :recycle: Simplify domain parsing regular expression |
 | Accessibility | :door: `:door:` | :door: Label registration form inputs |
 | Continuous Integration | :traffic_light: `:traffic_light:` | :traffic_light: Publish release to GitHub Package Registry |
+| Log | :memo: `:memo:` | :memo: Include last activity timestamp in user metadata |
 
 ## License
 
