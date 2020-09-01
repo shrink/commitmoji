@@ -39,6 +39,7 @@ considered breaking and requires a new major release.
 | Development Environment | :construction_worker: `:construction_worker:` | :construction_worker: Mount shared volume for service dependencies |
 | Format | :art: `:art:` | :art: Replace tabs with spaces in Javascript |
 | Performance | :zap: `:zap:` | :zap: Cache result of profile photo resizing |
+| Bug | :bug: `:bug:` | :bug: Generate cache key with user identifier |
 
 ## License
 
