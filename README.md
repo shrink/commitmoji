@@ -41,6 +41,7 @@ considered breaking and requires a new major release.
 | Performance | :zap: `:zap:` | :zap: Cache result of profile photo resizing |
 | Bug | :bug: `:bug:` | :bug: Generate cache key with user identifier |
 | Hotfix | :ambulance: `:ambulance:` | :ambulance: Replace user avatar with generic icon |
+| Documentation | :book: `:book:` | :book: Describe supported colours for template |
 
 ## License
 
