@@ -31,8 +31,6 @@ considered breaking and requires a new major release.
 
 :construction: commitmoji is currently in pre-release, feedback is encouraged.
 
-### Emojis
-
 | Type | Emoji | Example Commit |
 | ---- | ----- | ------------ |
 | Feature | :sparkles: `:sparkles:` | :sparkles: Allow user to authenticate with Google OAuth |
